@@ -3,7 +3,7 @@
 
 Practice exercise from offical **Rust Book:** [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html) *by Steve Klabnik and Carol Nichols, with contributions from the Rust Community*
 
-## ""Road Map""
+## "Road Map"
 - [ ] 1. Getting Started
 - [ ] 2. Programming a Guessing Game
 - [ ] 3. Common Programming Concepts
