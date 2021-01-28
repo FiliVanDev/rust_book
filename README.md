@@ -1,10 +1,10 @@
 ![rust_book_cover](https://user-images.githubusercontent.com/70931719/106210085-a4e7d900-6222-11eb-953f-c453d98bff5d.png)
 # Rust Book Practice
 
-Practice exercise from offical **Rust Book:** [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html) *by Steve Klabnik and Carol Nichols, with contributions from the Rust Community*
+Practice   from offical **Rust Book:** [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html) *by Steve Klabnik and Carol Nichols, with contributions from the Rust Community*
 
 ## "Road Map"
-- [ ] 1. Getting Started
+- [X] 1. Getting Started
 - [ ] 2. Programming a Guessing Game
 - [ ] 3. Common Programming Concepts
 - [ ] 4. Understanding Ownership
