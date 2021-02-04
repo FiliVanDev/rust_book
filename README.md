@@ -1,4 +1,4 @@
-![rust_book_cover](https://user-images.githubusercontent.com/70931719/106210085-a4e7d900-6222-11eb-953f-c453d98bff5d.png)
+![rust_book_cover](https://user-images.githubusercontent.com/70931719/106836168-1deca200-66f5-11eb-97fa-6c31fd5b4743.png)
 # Rust Book Practice
 
 Practice   from offical **Rust Book:** [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html) *by Steve Klabnik and Carol Nichols, with contributions from the Rust Community*
