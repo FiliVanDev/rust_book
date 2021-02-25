@@ -9,7 +9,7 @@ fn main() {
         print!("Input your temperature: ");
         io::stdout().flush().unwrap(); // Use for print and input in line
         let mut t = String::new(); // variable for temperature input
-        io::stdin() // Read input -> t
+        io::stdin() // Read keyboard input -> t
             .read_line(&mut t)
             .expect("Failed to read line");
         let t = t.trim(); // Del /n
