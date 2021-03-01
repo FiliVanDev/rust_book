@@ -7,7 +7,7 @@ Practice   from offical **Rust Book:** [The Rust Programming Language](https://d
 - [X] 1. Getting Started
 - [X] 2. Programming a Guessing Game
 - [X] 3. Common Programming Concepts
-- [ ] 4. Understanding Ownership
+- [X] 4. Understanding Ownership
 - [ ] 5. Using Structs to Structure Related Data
 - [ ] 6. Enums and Pattern Matching
 - [ ] 7. Managing Growing Projects with Packages, Crates, and Modules
